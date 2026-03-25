@@ -12,13 +12,13 @@
     <link rel="stylesheet" type="text/css" href="fonts/_families%3dSF%2bPro%2cv1_7CSF%2bPro%2bIcons%2cv1html.html" />
     <script src="text_tel.js"></script>
 	<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4J046JXWVC"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-2DMKRPGVF0');
+  gtag('config', 'G-4J046JXWVC');
 </script>
 
 </head>
